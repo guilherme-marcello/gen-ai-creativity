@@ -1,0 +1,26 @@
+pair_id,concept_1,concept_2,domain,blended_concept
+1,Hospital,Library,Institutions,Curative Archive
+2,Train Station,Garden,Infrastructure & Nature,Transit Oasis
+3,Volcano,Human Body,Natural World & Biology,Somatic Vent
+4,Beehive,Corporation,Nature & Business,Swarm Inc.
+5,River,Internet,Nature & Technology,Data Stream
+6,Painting,Symphony,Arts,Synesthetic Canvas
+7,Dream,Law,Abstract & Social Construct,Somatic Jurisprudence
+8,Kitchen,Laboratory,Domestic & Scientific,Culinary Catalyst
+9,Forest,Stock Market,Nature & Economics,Ecological Exchange
+10,Ant Colony,City,Nature & Urbanism,Myrmecopolis
+11,Telescope,Time Machine,Scientific Instrument & Fictional Device,Spatio-Temporal Observer
+12,Mountain,Career,Geography & Life Path,Vocational Peak
+13,Lock,Password,Mechanical & Digital Security,Cryptic Barrier
+14,Ship,Spaceship,Transportation,Cosmic Navigator
+15,Farm,Power Plant,Agriculture & Energy,Bio-Energy Cultivator
+16,Book,DNA,Information Storage,Biocode Tome
+17,Compass,Conscience,Navigation & Morality,Moral Vector
+18,Bridge,Conversation,Engineering & Social Interaction,Dialogical Span
+19,Clock,River,Time Measurement & Natural Flow,Chronos Current
+20,Seed,Idea,Biology & Cognition,Germinating Insight
+21,Spider Web,Social Network,Nature & Social Structure,Nexus Weave
+22,Key,Puzzle,Object & Challenge,Enigma Unlocked
+23,Lighthouse,Mentor,Navigation & Guidance,Guiding Beacon
+24,Recipe,Algorithm,Cooking & Computer Science,Algorithmic Cuisine
+25,Mirror,History,Object & Abstract Concept,Reflective Chronicle

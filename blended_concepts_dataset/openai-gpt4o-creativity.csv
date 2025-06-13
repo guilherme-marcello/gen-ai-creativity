@@ -1,0 +1,26 @@
+pair_id,concept_1,concept_2,domain,blended_concept
+1,Hospital,Library,Institutions,MedArchive
+2,Train Station,Garden,Infrastructure & Nature,TransitBloom
+3,Volcano,Human Body,Natural World & Biology,BioLava Core
+4,Beehive,Corporation,Nature & Business,HiveCorp
+5,River,Internet,Nature & Technology,StreamNet
+6,Painting,Symphony,Arts,Chromaphony
+7,Dream,Law,Abstract & Social Construct,Jurivision
+8,Kitchen,Laboratory,Domestic & Scientific,CulinaLab
+9,Forest,Stock Market,Nature & Economics,EcoExchange
+10,Ant Colony,City,Nature & Urbanism,Metranthill
+11,Telescope,Time Machine,Scientific Instrument & Fictional Device,Chronoscope
+12,Mountain,Career,Geography & Life Path,AspiraPeak
+13,Lock,Password,Mechanical & Digital Security,CipherSeal
+14,Ship,Spaceship,Transportation,VoidSailor
+15,Farm,Power Plant,Agriculture & Energy,AgriVolt
+16,Book,DNA,Information Storage,GeneTome
+17,Compass,Conscience,Navigation & Morality,MoralNorth
+18,Bridge,Conversation,Engineering & Social Interaction,DialogArch
+19,Clock,River,Time Measurement & Natural Flow,Chronoflow
+20,Seed,Idea,Biology & Cognition,GerminThought
+21,Spider Web,Social Network,Nature & Social Structure,NetWeave
+22,Key,Puzzle,Object & Challenge,CrypticTurn
+23,Lighthouse,Mentor,Navigation & Guidance,Guidelight
+24,Recipe,Algorithm,Cooking & Computer Science,Cookgorithm
+25,Mirror,History,Object & Abstract Concept,Reflectory
