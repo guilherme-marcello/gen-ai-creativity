@@ -1,0 +1,26 @@
+pair_id,concept_1,concept_2,domain,blended_concept,novelty_score,coherence_score
+1,Hospital,Library,Institutions,The Athenaeum of Healing,0.6272095441818237,9
+2,Train Station,Garden,Infrastructure & Nature,The Symbiotic Terminus,0.8231433480978012,9
+3,Volcano,Human Body,Natural World & Biology,The Geothermal Homunculus,0.6118783354759216,7
+4,Beehive,Corporation,Nature & Business,The Hive Conglomerate,0.5950492024421692,10
+5,River,Internet,Nature & Technology,The Data Stream,0.5809299945831299,10
+6,Painting,Symphony,Arts,Chromatic Sonata,0.5037680566310883,9
+7,Dream,Law,Abstract & Social Construct,The Somnium Codex,0.8419025838375092,9
+8,Kitchen,Laboratory,Domestic & Scientific,The Molecular Gastronomy Unit,0.5990422368049622,10
+9,Forest,Stock Market,Nature & Economics,The Arboreal Exchange,0.5687364637851715,9
+10,Ant Colony,City,Nature & Urbanism,The Formicarium Metropolis,0.7019758224487305,10
+11,Telescope,Time Machine,Scientific Instrument & Fictional Device,The Chronoscope,0.4316059947013855,10
+12,Mountain,Career,Geography & Life Path,The Vocational Ascent,0.5102621912956238,9
+13,Lock,Password,Mechanical & Digital Security,The Cryptolock,0.6659814119338989,10
+14,Ship,Spaceship,Transportation,The Aethership,0.5614721477031708,8
+15,Farm,Power Plant,Agriculture & Energy,The Agrivoltaic Grid,0.5487995743751526,10
+16,Book,DNA,Information Storage,The Bio-Codex,0.6098779439926147,10
+17,Compass,Conscience,Navigation & Morality,The Moral Gyroscope,0.5254870653152466,9
+18,Bridge,Conversation,Engineering & Social Interaction,The Dialogic Span,0.53996542096138,8
+19,Clock,River,Time Measurement & Natural Flow,The Temporal Estuary,0.5391220450401306,9
+20,Seed,Idea,Biology & Cognition,The Conceptual Germ,0.8020722270011902,8
+21,Spider Web,Social Network,Nature & Social Structure,The Resonance Web,0.36073625087738037,9
+22,Key,Puzzle,Object & Challenge,The Enigmatic Latch,0.678479015827179,8
+23,Lighthouse,Mentor,Navigation & Guidance,The Beacon of Praxis,0.7495582401752472,8
+24,Recipe,Algorithm,Cooking & Computer Science,The Generative Cookbook,0.42691415548324585,10
+25,Mirror,History,Object & Abstract Concept,The Reflective Chronicle,0.4847225546836853,9

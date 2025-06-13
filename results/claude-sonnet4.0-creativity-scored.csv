@@ -1,0 +1,26 @@
+pair_id,concept_1,concept_2,domain,blended_concept,novelty_score,coherence_score
+1,Hospital,Library,Institutions,Healarium,0.614554762840271,7
+2,Train Station,Garden,Infrastructure & Nature,Transit Oasis,0.7077171504497528,9
+3,Volcano,Human Body,Natural World & Biology,Geobiological Reactor,0.5961864590644836,7
+4,Beehive,Corporation,Nature & Business,Swarm Enterprise,0.5473720133304596,9
+5,River,Internet,Nature & Technology,Data Stream,0.6209794282913208,10
+6,Painting,Symphony,Arts,Visual Harmony,0.6804051399230957,9
+7,Dream,Law,Abstract & Social Construct,Subconscious Justice,0.6121827960014343,8
+8,Kitchen,Laboratory,Domestic & Scientific,Culinary Lab,0.317763090133667,10
+9,Forest,Stock Market,Nature & Economics,Growth Exchange,0.5927420258522034,8
+10,Ant Colony,City,Nature & Urbanism,Bio-Metropolitan,0.5404017567634583,9
+11,Telescope,Time Machine,Scientific Instrument & Fictional Device,Temporal Scope,0.595573753118515,10
+12,Mountain,Career,Geography & Life Path,Achievement Peak,0.6502100229263306,9
+13,Lock,Password,Mechanical & Digital Security,Cipher Guard,0.5252083837985992,8
+14,Ship,Spaceship,Transportation,Dimensional Vessel,0.6178377866744995,7
+15,Farm,Power Plant,Agriculture & Energy,Energy Cultivation,0.4825759530067444,10
+16,Book,DNA,Information Storage,Genetic Library,0.5169692039489746,10
+17,Compass,Conscience,Navigation & Morality,Moral Navigator,0.5077190399169922,9
+18,Bridge,Conversation,Engineering & Social Interaction,Connection Catalyst,0.7635790407657623,8
+19,Clock,River,Time Measurement & Natural Flow,Temporal Current,0.7342680096626282,9
+20,Seed,Idea,Biology & Cognition,Thought Germinator,0.6296106576919556,9
+21,Spider Web,Social Network,Nature & Social Structure,Relationship Mesh,0.660457968711853,10
+22,Key,Puzzle,Object & Challenge,Solution Cipher,0.6143704056739807,6
+23,Lighthouse,Mentor,Navigation & Guidance,Wisdom Beacon,0.5456728935241699,10
+24,Recipe,Algorithm,Cooking & Computer Science,Process Formula,0.7584882527589798,9
+25,Mirror,History,Object & Abstract Concept,Reflection Archive,0.5714653730392456,9
