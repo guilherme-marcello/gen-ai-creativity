@@ -1,26 +1,26 @@
-pair_id,concept_1,concept_2,domain,blended_concept,novelty_score,coherence_score
-1,Hospital,Library,Institutions,Healing Books,0.5563231110572815,9
-2,Train Station,Garden,Infrastructure & Nature, Green Movement,0.6226894855499268,3
-3,Volcano,Human Body,Natural World & Biology, Explosive Organism,0.6496636271476746,8
-4,Beehive,Corporation,Nature & Business, Queen Organization,0.5480907559394836,7
-5,River,Internet,Nature & Technology, Natural Interconnectivity,0.7892697304487228,5
-6,Painting,Symphony,Arts, Dancing Colors,0.6370853185653687,8
-7,Dream,Law,Abstract & Social Construct, Judicial Fantasy,0.5244853496551514,8
-8,Kitchen,Laboratory,Domestic & Scientific, Food Creation,0.5581933259963989,4
-9,Forest,Stock Market,Nature & Economics, Capitalism Jungle,0.592377781867981,10
-10,Ant Colony,City,Nature & Urbanism, Animopolis,0.567194402217865,9
-11,Telescope,Time Machine,Scientific Instrument & Fictional Device, Looking to the time lines,0.5255793333053589,2
-12,Mountain,Career,Geography & Life Path, Climbing the corporate ladder,0.6041167676448822,2
-13,Lock,Password,Mechanical & Digital Security, Inner soul ,0.7415538430213928,1
-14,Ship,Spaceship,Transportation, Vessels,0.55597785115242,3
-15,Farm,Power Plant,Agriculture & Energy, Nature exploitation,0.6207032203674316,2
-16,Book,DNA,Information Storage, Encoded Knowledge,0.6577266752719879,9
-17,Compass,Conscience,Navigation & Morality, Finding the truth,0.7094084918498993,3
-18,Bridge,Conversation,Engineering & Social Interaction, Connecting ideas,0.6622245013713837,4
-19,Clock,River,Time Measurement & Natural Flow, Cycle of life,0.7204050123691559,4
-20,Seed,Idea,Biology & Cognition, Florestation of thoughts,0.8395734429359436,7
-21,Spider Web,Social Network,Nature & Social Structure, Sticky society,0.6752378940582275,8
-22,Key,Puzzle,Object & Challenge, Opening ways out,0.8033403605222702,3
-23,Lighthouse,Mentor,Navigation & Guidance, Guidance,0.46223437786102295,2
-24,Recipe,Algorithm,Cooking & Computer Science, Food Protocol,0.5913192629814148,9
-25,Mirror,History,Object & Abstract Concept, Energy echo,0.752721905708313,4
+pair_id,concept_1,concept_2,domain,blended_concept,novelty_score,coherence_score,emergence_score
+1,Hospital,Library,Institutions,Healing Books,0.5563231110572815,9,5
+2,Train Station,Garden,Infrastructure & Nature, Green Movement,0.6226894855499268,3,6
+3,Volcano,Human Body,Natural World & Biology, Explosive Organism,0.6496636271476746,8,7
+4,Beehive,Corporation,Nature & Business, Queen Organization,0.5480907559394836,7,10
+5,River,Internet,Nature & Technology, Natural Interconnectivity,0.7892697304487228,5,10
+6,Painting,Symphony,Arts, Dancing Colors,0.6370853185653687,8,9
+7,Dream,Law,Abstract & Social Construct, Judicial Fantasy,0.5244853496551514,8,8
+8,Kitchen,Laboratory,Domestic & Scientific, Food Creation,0.5581933259963989,4,2
+9,Forest,Stock Market,Nature & Economics, Capitalism Jungle,0.592377781867981,10,10
+10,Ant Colony,City,Nature & Urbanism, Animopolis,0.567194402217865,9,6
+11,Telescope,Time Machine,Scientific Instrument & Fictional Device, Looking to the time lines,0.5255793333053589,2,6
+12,Mountain,Career,Geography & Life Path, Climbing the corporate ladder,0.6041167676448822,2,7
+13,Lock,Password,Mechanical & Digital Security, Inner soul ,0.7415538430213928,1,7
+14,Ship,Spaceship,Transportation, Vessels,0.55597785115242,3,2
+15,Farm,Power Plant,Agriculture & Energy, Nature exploitation,0.6207032203674316,2,10
+16,Book,DNA,Information Storage, Encoded Knowledge,0.6577266752719879,9,8
+17,Compass,Conscience,Navigation & Morality, Finding the truth,0.7094084918498993,3,9
+18,Bridge,Conversation,Engineering & Social Interaction, Connecting ideas,0.6622245013713837,4,6
+19,Clock,River,Time Measurement & Natural Flow, Cycle of life,0.7204050123691559,4,10
+20,Seed,Idea,Biology & Cognition, Florestation of thoughts,0.8395734429359436,7,5
+21,Spider Web,Social Network,Nature & Social Structure, Sticky society,0.6752378940582275,8,9
+22,Key,Puzzle,Object & Challenge, Opening ways out,0.8033403605222702,3,7
+23,Lighthouse,Mentor,Navigation & Guidance, Guidance,0.46223437786102295,2,5
+24,Recipe,Algorithm,Cooking & Computer Science, Food Protocol,0.5913192629814148,9,6
+25,Mirror,History,Object & Abstract Concept, Energy echo,0.752721905708313,4,8

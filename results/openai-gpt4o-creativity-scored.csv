@@ -1,26 +1,26 @@
-pair_id,concept_1,concept_2,domain,blended_concept,novelty_score,coherence_score
-1,Hospital,Library,Institutions,MedArchive,0.696394681930542,10
-2,Train Station,Garden,Infrastructure & Nature,TransitBloom,0.7081015110015869,9
-3,Volcano,Human Body,Natural World & Biology,BioLava Core,0.8262506425380707,7
-4,Beehive,Corporation,Nature & Business,HiveCorp,0.4663870334625244,10
-5,River,Internet,Nature & Technology,StreamNet,0.5774492025375366,10
-6,Painting,Symphony,Arts,Chromaphony,0.7085948586463928,9
-7,Dream,Law,Abstract & Social Construct,Jurivision,0.7000892758369446,7
-8,Kitchen,Laboratory,Domestic & Scientific,CulinaLab,0.7135454416275024,10
-9,Forest,Stock Market,Nature & Economics,EcoExchange,0.5572876632213593,10
-10,Ant Colony,City,Nature & Urbanism,Metranthill,0.6453631222248077,8
-11,Telescope,Time Machine,Scientific Instrument & Fictional Device,Chronoscope,0.4541454315185547,10
-12,Mountain,Career,Geography & Life Path,AspiraPeak,0.804709866642952,9
-13,Lock,Password,Mechanical & Digital Security,CipherSeal,0.5995615422725677,9
-14,Ship,Spaceship,Transportation,VoidSailor,0.7590664327144623,8
-15,Farm,Power Plant,Agriculture & Energy,AgriVolt,0.5547954440116882,10
-16,Book,DNA,Information Storage,GeneTome,0.4765387177467346,10
-17,Compass,Conscience,Navigation & Morality,MoralNorth,0.5852555334568024,9
-18,Bridge,Conversation,Engineering & Social Interaction,DialogArch,0.6967013478279114,8
-19,Clock,River,Time Measurement & Natural Flow,Chronoflow,0.5828445553779602,10
-20,Seed,Idea,Biology & Cognition,GerminThought,0.5681594908237457,6
-21,Spider Web,Social Network,Nature & Social Structure,NetWeave,0.5252107977867126,9
-22,Key,Puzzle,Object & Challenge,CrypticTurn,0.7259829938411713,7
-23,Lighthouse,Mentor,Navigation & Guidance,Guidelight,0.5368559658527374,10
-24,Recipe,Algorithm,Cooking & Computer Science,Cookgorithm,0.559162050485611,8
-25,Mirror,History,Object & Abstract Concept,Reflectory,0.4439159631729126,9
+pair_id,concept_1,concept_2,domain,blended_concept,novelty_score,coherence_score,emergence_score
+1,Hospital,Library,Institutions,MedArchive,0.696394681930542,10,5
+2,Train Station,Garden,Infrastructure & Nature,TransitBloom,0.7081015110015869,9,4
+3,Volcano,Human Body,Natural World & Biology,BioLava Core,0.8262506425380707,7,7
+4,Beehive,Corporation,Nature & Business,HiveCorp,0.4663870334625244,10,4
+5,River,Internet,Nature & Technology,StreamNet,0.5774492025375366,10,2
+6,Painting,Symphony,Arts,Chromaphony,0.7085948586463928,9,1
+7,Dream,Law,Abstract & Social Construct,Jurivision,0.7000892758369446,7,3
+8,Kitchen,Laboratory,Domestic & Scientific,CulinaLab,0.7135454416275024,10,1
+9,Forest,Stock Market,Nature & Economics,EcoExchange,0.5572876632213593,10,4
+10,Ant Colony,City,Nature & Urbanism,Metranthill,0.6453631222248077,8,5
+11,Telescope,Time Machine,Scientific Instrument & Fictional Device,Chronoscope,0.4541454315185547,10,3
+12,Mountain,Career,Geography & Life Path,AspiraPeak,0.804709866642952,9,6
+13,Lock,Password,Mechanical & Digital Security,CipherSeal,0.5995615422725677,9,2
+14,Ship,Spaceship,Transportation,VoidSailor,0.7590664327144623,8,8
+15,Farm,Power Plant,Agriculture & Energy,AgriVolt,0.5547954440116882,10,6
+16,Book,DNA,Information Storage,GeneTome,0.4765387177467346,10,5
+17,Compass,Conscience,Navigation & Morality,MoralNorth,0.5852555334568024,9,8
+18,Bridge,Conversation,Engineering & Social Interaction,DialogArch,0.6967013478279114,8,8
+19,Clock,River,Time Measurement & Natural Flow,Chronoflow,0.5828445553779602,10,3
+20,Seed,Idea,Biology & Cognition,GerminThought,0.5681594908237457,6,4
+21,Spider Web,Social Network,Nature & Social Structure,NetWeave,0.5252107977867126,9,3
+22,Key,Puzzle,Object & Challenge,CrypticTurn,0.7259829938411713,7,5
+23,Lighthouse,Mentor,Navigation & Guidance,Guidelight,0.5368559658527374,10,4
+24,Recipe,Algorithm,Cooking & Computer Science,Cookgorithm,0.559162050485611,8,3
+25,Mirror,History,Object & Abstract Concept,Reflectory,0.4439159631729126,9,3

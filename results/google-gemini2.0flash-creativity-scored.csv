@@ -1,26 +1,26 @@
-pair_id,concept_1,concept_2,domain,blended_concept,novelty_score,coherence_score
-1,Hospital,Library,Institutions,Curative Archive,0.5432409644126892,8
-2,Train Station,Garden,Infrastructure & Nature,Transit Oasis,0.7077171504497528,9
-3,Volcano,Human Body,Natural World & Biology,Somatic Vent,0.783240556716919,8
-4,Beehive,Corporation,Nature & Business,Swarm Inc.,0.46586745977401733,9
-5,River,Internet,Nature & Technology,Data Stream,0.6209794282913208,10
-6,Painting,Symphony,Arts,Synesthetic Canvas,0.5843557715415955,9
-7,Dream,Law,Abstract & Social Construct,Somatic Jurisprudence,0.4930647015571594,6
-8,Kitchen,Laboratory,Domestic & Scientific,Culinary Catalyst,0.5687328577041626,9
-9,Forest,Stock Market,Nature & Economics,Ecological Exchange,0.7201805114746094,10
-10,Ant Colony,City,Nature & Urbanism,Myrmecopolis,0.7122225165367126,10
-11,Telescope,Time Machine,Scientific Instrument & Fictional Device,Spatio-Temporal Observer,0.6901782155036926,9
-12,Mountain,Career,Geography & Life Path,Vocational Peak,0.6313917636871338,9
-13,Lock,Password,Mechanical & Digital Security,Cryptic Barrier,0.720781534910202,8
-14,Ship,Spaceship,Transportation,Cosmic Navigator,0.44275790452957153,8
-15,Farm,Power Plant,Agriculture & Energy,Bio-Energy Cultivator,0.622261106967926,10
-16,Book,DNA,Information Storage,Biocode Tome,0.5913524627685547,9
-17,Compass,Conscience,Navigation & Morality,Moral Vector,0.6367350816726685,8
-18,Bridge,Conversation,Engineering & Social Interaction,Dialogical Span,0.606541097164154,8
-19,Clock,River,Time Measurement & Natural Flow,Chronos Current,0.8486240208148956,10
-20,Seed,Idea,Biology & Cognition,Germinating Insight,0.506493330001831,9
-21,Spider Web,Social Network,Nature & Social Structure,Nexus Weave,0.6809285879135132,9
-22,Key,Puzzle,Object & Challenge,Enigma Unlocked,0.6406511068344116,8
-23,Lighthouse,Mentor,Navigation & Guidance,Guiding Beacon,0.498318076133728,10
-24,Recipe,Algorithm,Cooking & Computer Science,Algorithmic Cuisine,0.44889897108078003,9
-25,Mirror,History,Object & Abstract Concept,Reflective Chronicle,0.49306172132492065,9
+pair_id,concept_1,concept_2,domain,blended_concept,novelty_score,coherence_score,emergence_score
+1,Hospital,Library,Institutions,Curative Archive,0.5432409644126892,8,6
+2,Train Station,Garden,Infrastructure & Nature,Transit Oasis,0.7077171504497528,9,1
+3,Volcano,Human Body,Natural World & Biology,Somatic Vent,0.783240556716919,8,8
+4,Beehive,Corporation,Nature & Business,Swarm Inc.,0.46586745977401733,9,4
+5,River,Internet,Nature & Technology,Data Stream,0.6209794282913208,10,1
+6,Painting,Symphony,Arts,Synesthetic Canvas,0.5843557715415955,9,9
+7,Dream,Law,Abstract & Social Construct,Somatic Jurisprudence,0.4930647015571594,6,6
+8,Kitchen,Laboratory,Domestic & Scientific,Culinary Catalyst,0.5687328577041626,9,7
+9,Forest,Stock Market,Nature & Economics,Ecological Exchange,0.7201805114746094,10,4
+10,Ant Colony,City,Nature & Urbanism,Myrmecopolis,0.7122225165367126,10,6
+11,Telescope,Time Machine,Scientific Instrument & Fictional Device,Spatio-Temporal Observer,0.6901782155036926,9,6
+12,Mountain,Career,Geography & Life Path,Vocational Peak,0.6313917636871338,9,6
+13,Lock,Password,Mechanical & Digital Security,Cryptic Barrier,0.720781534910202,8,6
+14,Ship,Spaceship,Transportation,Cosmic Navigator,0.44275790452957153,8,6
+15,Farm,Power Plant,Agriculture & Energy,Bio-Energy Cultivator,0.622261106967926,10,1
+16,Book,DNA,Information Storage,Biocode Tome,0.5913524627685547,9,6
+17,Compass,Conscience,Navigation & Morality,Moral Vector,0.6367350816726685,8,6
+18,Bridge,Conversation,Engineering & Social Interaction,Dialogical Span,0.606541097164154,8,5
+19,Clock,River,Time Measurement & Natural Flow,Chronos Current,0.8486240208148956,10,4
+20,Seed,Idea,Biology & Cognition,Germinating Insight,0.506493330001831,9,7
+21,Spider Web,Social Network,Nature & Social Structure,Nexus Weave,0.6809285879135132,9,8
+22,Key,Puzzle,Object & Challenge,Enigma Unlocked,0.6406511068344116,8,2
+23,Lighthouse,Mentor,Navigation & Guidance,Guiding Beacon,0.498318076133728,10,3
+24,Recipe,Algorithm,Cooking & Computer Science,Algorithmic Cuisine,0.44889897108078003,9,2
+25,Mirror,History,Object & Abstract Concept,Reflective Chronicle,0.49306172132492065,9,2
