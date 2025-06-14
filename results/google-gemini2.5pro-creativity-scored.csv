@@ -23,4 +23,4 @@ pair_id,concept_1,concept_2,domain,blended_concept,novelty_score,coherence_score
 22,Key,Puzzle,Object & Challenge,The Enigmatic Latch,0.678479015827179,8,4
 23,Lighthouse,Mentor,Navigation & Guidance,The Beacon of Praxis,0.7495582401752472,8,7
 24,Recipe,Algorithm,Cooking & Computer Science,The Generative Cookbook,0.42691415548324585,10,9
-25,Mirror,History,Object & Abstract Concept,The Reflective Chronicle,0.4847225546836853,2
+25,Mirror,History,Object & Abstract Concept,The Reflective Chronicle,0.4847225546836853,2,2
